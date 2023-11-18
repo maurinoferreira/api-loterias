@@ -4,7 +4,7 @@ import puppeteer from "puppeteer";
 async function getNumbers(){
 
 
-   const browser = await puppeteer.launch({headless:true});
+   const browser = await puppeteer.launch({headless:true}, executablePath: '/usr/bin/google-chrome');
 
    const page = await browser.newPage();
 
