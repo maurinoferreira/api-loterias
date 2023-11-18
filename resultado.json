@@ -1,0 +1,78 @@
+
+// http://localhost:3000/duplasena
+
+{
+  "duplasena": {
+    "nome": "Dupla Sena",
+    "data": "17/11/2023",
+    "concurso": "2594",
+    "local": "ESPAÇO DA SORTE EM SÃO PAULO, SP",
+    "valor": "R$ 1,2 Milhão",
+    "primeiroSorteio": {
+      "numerosSorteados": [
+        "04",
+        "19",
+        "20",
+        "25",
+        "43",
+        "44"
+      ],
+      "sena": {
+        "jogo": "Sena",
+        "ganhadores": "-",
+        "premio": "-"
+      },
+      "quina": {
+        "jogo": "Quina",
+        "ganhadores": "9",
+        "premio": "R$ 5.885,82"
+      },
+      "quadra": {
+        "jogo": "Quadra",
+        "ganhadores": "639",
+        "premio": "R$ 94,74"
+      },
+      "terno": {
+        "jogo": "Terno",
+        "ganhadores": "12138",
+        "premio": "R$ 2,49"
+      }
+    },
+    "segundoSorteio": {
+      "numerosSorteados": [
+        "05",
+        "12",
+        "14",
+        "28",
+        "40",
+        "43"
+      ],
+      "sena": {
+        "jogo": "Sena",
+        "ganhadores": "1",
+        "premio": "R$ 58.269,59"
+      },
+      "quina": {
+        "jogo": "Quina",
+        "ganhadores": "2",
+        "premio": "R$ 23.837,56"
+      },
+      "quadra": {
+        "jogo": "Quadra",
+        "ganhadores": "622",
+        "premio": "R$ 97,33"
+      },
+      "terno": {
+        "jogo": "Terno",
+        "ganhadores": "11284",
+        "premio": "R$ 2,68"
+      }
+    },
+    "acumulado": "R$ 1.032.554,26",
+    "arrecadacaoTotal": "R$ 1.745.670,00",
+    "dataProximoSorteio": "20/11/2023",
+    "valorProximoConcurso": "R$ 1,3 Milhão",
+    "resultado": " Acumulada!",
+    "proximoConcurso": "2595"
+  }
+}
